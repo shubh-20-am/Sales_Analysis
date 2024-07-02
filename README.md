@@ -2,11 +2,10 @@
 
 ## Table of Contents
 
--[Project Overview](#project-overview)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Exploartory Data Analysis](#exploratory-data-analysis)
 
--[Data Sources](#data-sources)
-
--[Exploratory Data Analysis](#exploratory-data-analysis)
 
 ### Project Overview
 
